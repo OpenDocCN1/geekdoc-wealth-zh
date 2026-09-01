@@ -6,6 +6,7 @@
 +   [生活黑客](docs/lf-hkr/README.md)
 +   [PaulGraham 博客中文翻译](docs/paulgraham-blog/README.md)
 +   [原则 · 中文版](docs/principles/README.md)
++   [现实变现. 步骤 I-V](docs/reality-transurfing-steps-i-v/README.md)
 +   [RichAF 中文版](docs/rich-af/README.md)
 +   [VentureHacks 博客中文翻译](docs/venturehacks-blog/README.md)
 +   [油管公式](docs/ytb-fml/README.md)
