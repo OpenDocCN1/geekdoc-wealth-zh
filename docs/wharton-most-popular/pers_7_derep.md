@@ -1,15 +1,5 @@
 # 第六章 接下来做什么
 
-GETTING A SQUIRREL TO FOCUS
-
-ENGAGE AND PERSUADE
-
-TODAY’S LISTENERS
-
-# 第六章 Chapter Six
-
-接下来做什么
-What now
 
 沟通本质上是一种可以习得的能力，和学会骑车、学会打字一样，只要你愿意实操，就能快速让生活品质升级。
 

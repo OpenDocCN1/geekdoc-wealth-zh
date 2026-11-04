@@ -9,4 +9,5 @@
 +   [现实变换术. 步骤 I-V](docs/reality-transurfing-steps-i-v/README.md)
 +   [RichAF 中文版](docs/rich-af/README.md)
 +   [VentureHacks 博客中文翻译](docs/venturehacks-blog/README.md)
++   [沃顿商学院最受欢迎的课程笔记](docs/wharton-most-popular/README.md)
 +   [油管公式](docs/ytb-fml/README.md)

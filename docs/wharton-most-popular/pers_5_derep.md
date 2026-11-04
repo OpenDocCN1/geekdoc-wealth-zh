@@ -1,12 +1,4 @@
-# 第四章 记住我
-
-GETTING A SQUIRREL TO FOCUS
-ENGAGE AND PERSUADE
-TODAY’S LISTENERS
-
-# 第四章 Chapter Four
-记住我
-Remember me
+# 第四章 让信息长在别人脑子里
 
 前三章我们聊过怎么起个让人愿意听的头：听众能得到什么、可信度、信息的相关性。这三点正是橡果策略 ACORN 的前半段。缺了它们，后面再精彩也接不上。
 
